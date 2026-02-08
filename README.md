@@ -1,6 +1,7 @@
 # University Inventory Management System
  
-> **Student:** Krishal Acharya  
+> **Student:** Krishal Acharya
+> **Student ID:** S2502073
 > **Institution:** National Academy of Professional Studies (NAPS)
 
 ---
